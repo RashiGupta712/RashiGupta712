@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RashiGupta712
-- 💞️ Computer Science and Engineering Graduate
+- 💞️ Computer Science and Engineering Graduate Student
 - 👀 Currently working in HCL Technologies
 - 🌱 I’m currently learning Networking, Security and Cloud Certifications
 - 📫 How to reach me https://youtube.com/@rashigupta 
